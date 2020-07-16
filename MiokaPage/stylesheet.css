@@ -1,0 +1,40 @@
+#title {
+  color: #02ccba;
+  text-align: center;
+}
+
+body{
+width:1250px;　　　
+}
+
+#logo{
+  text-align: center;
+}
+
+ul.tab_test{
+ margin:0;
+}
+.tab_test li{
+ border:1px solid #888;
+ border-bottom-color:transparent;
+ list-style:none;
+display:inline-block;
+background:#888;
+color:#fff;
+}
+.tab_test li.Active{
+ background:#fff;
+color:#000;
+}
+.tab_cnt{
+ border:1px solid #888;
+padding:15px;
+ margin-top:-1px;
+ overflow:hidden;
+}
+.tab_cnt div{
+ display:none;
+}
+.tab_cnt div.Active{
+ display:block;
+}
