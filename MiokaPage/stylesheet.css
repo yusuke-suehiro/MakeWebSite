@@ -1,8 +1,3 @@
-#title {
-  color: #02ccba;
-  text-align: center;
-}
-
 body{
 width:1250px;　　　
 }
@@ -15,26 +10,49 @@ ul.tab_test{
  margin:0;
 }
 .tab_test li{
- border:1px solid #888;
+ border:1px solid #009966;
+ width:190px;
+ height:50px;
+ line-height: 50px;
+ font-size:23px;
+ text-align: center;
  border-bottom-color:transparent;
- list-style:none;
 display:inline-block;
-background:#888;
+background:#009966;
 color:#fff;
 }
+
 .tab_test li.Active{
- background:#fff;
+ background:#FFFFEE;
 color:#000;
 }
 .tab_cnt{
- border:1px solid #888;
-padding:15px;
+ border:1px solid #009966;
+padding:50px;
  margin-top:-1px;
  overflow:hidden;
+ background:#FFFFEE
 }
 .tab_cnt div{
  display:none;
+
 }
 .tab_cnt div.Active{
  display:block;
+}
+
+#AccessDes_3 {
+  text-align: center;
+}
+#tab3_cnt {
+  text-align: center;
+}
+#tab3_cnt p{
+  display: inline-block;
+  text-align: left;
+  font-size:25px;
+}
+#tab4_cnt {
+  text-align: center;
+  font-size:25px;
 }
