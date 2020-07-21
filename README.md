@@ -1,2 +1,2 @@
 # MakeWebSite
- to make website in html and css
+https://yusuke-suehiro.github.io/MakeWebSite/SheduleManagement/
