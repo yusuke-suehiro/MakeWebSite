@@ -1,2 +1,2 @@
 # MakeWebSite
-https://yusuke-suehiro.github.io/MakeWebSite/SheduleManagement/
+https://yusuke-suehiro.github.io/MakeWebSite/
